@@ -1,0 +1,8 @@
+c:\users\nutza\documents\visual studio 2010\Projects\Joc de memorie\Joc de memorie\bin\Debug\Joc de memorie.exe
+c:\users\nutza\documents\visual studio 2010\Projects\Joc de memorie\Joc de memorie\bin\Debug\Joc de memorie.pdb
+c:\users\nutza\documents\visual studio 2010\Projects\Joc de memorie\Joc de memorie\obj\x86\Debug\Joc_de_memorie.Form1.resources
+c:\users\nutza\documents\visual studio 2010\Projects\Joc de memorie\Joc de memorie\obj\x86\Debug\Joc_de_memorie.Properties.Resources.resources
+c:\users\nutza\documents\visual studio 2010\Projects\Joc de memorie\Joc de memorie\obj\x86\Debug\Joc de memorie.csproj.GenerateResource.Cache
+c:\users\nutza\documents\visual studio 2010\Projects\Joc de memorie\Joc de memorie\obj\x86\Debug\Joc de memorie.exe
+c:\users\nutza\documents\visual studio 2010\Projects\Joc de memorie\Joc de memorie\obj\x86\Debug\Joc de memorie.pdb
+C:\Users\nutza\Documents\Visual Studio 2010\Projects\Joc de memorie\Joc de memorie\obj\x86\Debug\Joc de memorie.csprojResolveAssemblyReference.cache
